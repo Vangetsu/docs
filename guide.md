@@ -1,3 +1,3 @@
-# Headline
 
-> An awesome project.
+* [Home](/)
+* [Guide](guide.md)
