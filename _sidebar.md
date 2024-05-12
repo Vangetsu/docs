@@ -27,8 +27,3 @@
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
-
-
-
-* [Home](/)
-* [Guide](guide.md)
